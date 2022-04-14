@@ -177,10 +177,10 @@ HAVING COUNT(e.EmployeeID) > 2
 
 -- 27. Display the customers and suppliers by city. The results should have the following columns
 -- City, Name, Contact Name, Type (Customer or Supplier)
-SELECT City, CompanyName AS Name, ContactName, 'Customer' AS Type
+SELECT City, CompanyName AS Name, ContactName AS [Contact Name], 'Customer' AS Type
 FROM Customers
 UNION 
-SELECT City, CompanyName AS Name, ContactName, 'Supplier'
+SELECT City, CompanyName AS Name, ContactName AS [Contact Name], 'Supplier'
 FROM Suppliers
 
 
