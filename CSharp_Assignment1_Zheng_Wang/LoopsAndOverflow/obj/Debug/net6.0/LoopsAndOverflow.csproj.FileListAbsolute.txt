@@ -1,0 +1,15 @@
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\LoopsAndOverflow\bin\Debug\net6.0\LoopsAndOverflow.exe
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\LoopsAndOverflow\bin\Debug\net6.0\LoopsAndOverflow.deps.json
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\LoopsAndOverflow\bin\Debug\net6.0\LoopsAndOverflow.runtimeconfig.json
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\LoopsAndOverflow\bin\Debug\net6.0\LoopsAndOverflow.dll
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\LoopsAndOverflow\bin\Debug\net6.0\LoopsAndOverflow.pdb
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\LoopsAndOverflow\obj\Debug\net6.0\LoopsAndOverflow.csproj.AssemblyReference.cache
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\LoopsAndOverflow\obj\Debug\net6.0\LoopsAndOverflow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\LoopsAndOverflow\obj\Debug\net6.0\LoopsAndOverflow.AssemblyInfoInputs.cache
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\LoopsAndOverflow\obj\Debug\net6.0\LoopsAndOverflow.AssemblyInfo.cs
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\LoopsAndOverflow\obj\Debug\net6.0\LoopsAndOverflow.csproj.CoreCompileInputs.cache
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\LoopsAndOverflow\obj\Debug\net6.0\LoopsAndOverflow.dll
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\LoopsAndOverflow\obj\Debug\net6.0\refint\LoopsAndOverflow.dll
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\LoopsAndOverflow\obj\Debug\net6.0\LoopsAndOverflow.pdb
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\LoopsAndOverflow\obj\Debug\net6.0\LoopsAndOverflow.genruntimeconfig.cache
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\LoopsAndOverflow\obj\Debug\net6.0\ref\LoopsAndOverflow.dll

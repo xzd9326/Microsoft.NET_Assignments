@@ -1,0 +1,15 @@
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ExtractPalindromes\obj\Debug\net6.0\ExtractPalindromes.csproj.AssemblyReference.cache
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ExtractPalindromes\obj\Debug\net6.0\ExtractPalindromes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ExtractPalindromes\obj\Debug\net6.0\ExtractPalindromes.AssemblyInfoInputs.cache
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ExtractPalindromes\obj\Debug\net6.0\ExtractPalindromes.AssemblyInfo.cs
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ExtractPalindromes\obj\Debug\net6.0\ExtractPalindromes.csproj.CoreCompileInputs.cache
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ExtractPalindromes\bin\Debug\net6.0\ExtractPalindromes.exe
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ExtractPalindromes\bin\Debug\net6.0\ExtractPalindromes.deps.json
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ExtractPalindromes\bin\Debug\net6.0\ExtractPalindromes.runtimeconfig.json
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ExtractPalindromes\bin\Debug\net6.0\ExtractPalindromes.dll
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ExtractPalindromes\bin\Debug\net6.0\ExtractPalindromes.pdb
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ExtractPalindromes\obj\Debug\net6.0\ExtractPalindromes.dll
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ExtractPalindromes\obj\Debug\net6.0\refint\ExtractPalindromes.dll
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ExtractPalindromes\obj\Debug\net6.0\ExtractPalindromes.pdb
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ExtractPalindromes\obj\Debug\net6.0\ExtractPalindromes.genruntimeconfig.cache
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ExtractPalindromes\obj\Debug\net6.0\ref\ExtractPalindromes.dll

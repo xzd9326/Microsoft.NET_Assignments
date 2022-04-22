@@ -1,0 +1,15 @@
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\FizzBuzz\bin\Debug\net6.0\PracticeLoopsAndOperators.exe
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\FizzBuzz\bin\Debug\net6.0\PracticeLoopsAndOperators.deps.json
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\FizzBuzz\bin\Debug\net6.0\PracticeLoopsAndOperators.runtimeconfig.json
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\FizzBuzz\bin\Debug\net6.0\PracticeLoopsAndOperators.dll
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\FizzBuzz\bin\Debug\net6.0\PracticeLoopsAndOperators.pdb
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\FizzBuzz\obj\Debug\net6.0\PracticeLoopsAndOperators.csproj.AssemblyReference.cache
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\FizzBuzz\obj\Debug\net6.0\PracticeLoopsAndOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\FizzBuzz\obj\Debug\net6.0\PracticeLoopsAndOperators.AssemblyInfoInputs.cache
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\FizzBuzz\obj\Debug\net6.0\PracticeLoopsAndOperators.AssemblyInfo.cs
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\FizzBuzz\obj\Debug\net6.0\PracticeLoopsAndOperators.csproj.CoreCompileInputs.cache
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\FizzBuzz\obj\Debug\net6.0\PracticeLoopsAndOperators.dll
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\FizzBuzz\obj\Debug\net6.0\refint\PracticeLoopsAndOperators.dll
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\FizzBuzz\obj\Debug\net6.0\PracticeLoopsAndOperators.pdb
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\FizzBuzz\obj\Debug\net6.0\PracticeLoopsAndOperators.genruntimeconfig.cache
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\FizzBuzz\obj\Debug\net6.0\ref\PracticeLoopsAndOperators.dll

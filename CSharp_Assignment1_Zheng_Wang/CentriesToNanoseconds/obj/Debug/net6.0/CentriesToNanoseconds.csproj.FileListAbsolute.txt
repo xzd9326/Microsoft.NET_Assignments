@@ -1,0 +1,15 @@
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\CentriesToNanoseconds\bin\Debug\net6.0\CentriesToNanoseconds.exe
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\CentriesToNanoseconds\bin\Debug\net6.0\CentriesToNanoseconds.deps.json
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\CentriesToNanoseconds\bin\Debug\net6.0\CentriesToNanoseconds.runtimeconfig.json
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\CentriesToNanoseconds\bin\Debug\net6.0\CentriesToNanoseconds.dll
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\CentriesToNanoseconds\bin\Debug\net6.0\CentriesToNanoseconds.pdb
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\CentriesToNanoseconds\obj\Debug\net6.0\CentriesToNanoseconds.csproj.AssemblyReference.cache
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\CentriesToNanoseconds\obj\Debug\net6.0\CentriesToNanoseconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\CentriesToNanoseconds\obj\Debug\net6.0\CentriesToNanoseconds.AssemblyInfoInputs.cache
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\CentriesToNanoseconds\obj\Debug\net6.0\CentriesToNanoseconds.AssemblyInfo.cs
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\CentriesToNanoseconds\obj\Debug\net6.0\CentriesToNanoseconds.csproj.CoreCompileInputs.cache
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\CentriesToNanoseconds\obj\Debug\net6.0\CentriesToNanoseconds.dll
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\CentriesToNanoseconds\obj\Debug\net6.0\refint\CentriesToNanoseconds.dll
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\CentriesToNanoseconds\obj\Debug\net6.0\CentriesToNanoseconds.pdb
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\CentriesToNanoseconds\obj\Debug\net6.0\CentriesToNanoseconds.genruntimeconfig.cache
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\CentriesToNanoseconds\obj\Debug\net6.0\ref\CentriesToNanoseconds.dll

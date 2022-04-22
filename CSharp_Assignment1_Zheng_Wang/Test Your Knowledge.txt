@@ -1,0 +1,46 @@
+---------------------------------------Understanding Data Types--------------------------------------------
+1.What type would you choose for the following “numbers”?
+A person’s telephone number													string	
+A person’s height															short (in centimeters)
+A person’s age																byte
+A person’s gender (Male, Female, Prefer Not To Answer)						Enum
+A person’s salary															uint or int
+A book’s ISBN																string
+A book’s price																ushort
+A book’s shipping weight													byte (in pounds)
+A country’s population														uint
+The number of stars in the universe											double
+The number of employees in each of the small or medium businesses in the	ushort
+United Kingdom (up to about 50,000 employees per business)
+
+
+2. What are the difference between value type and reference type variables? What is boxing and unboxing?
+	Value types directly contain their data, while reference types store references to their data (objects).
+	Boxing is the process of converting a value type to the type object or to any interface type implemented by this value type.
+	Unboxing extracts the value type from the object.
+
+3. What is meant by the terms managed resource and unmanaged resource in .NET
+	Managed resources are those that are managed by the CLR.
+	Unmanaged resources mean native resources that are created and lifetime managed outside the CLR, such as database connections.
+
+4. Whats the purpose of Garbage Collector in .NET?
+	.NET's garbage collector manages the allocation and release of memory for the application. It can free memory when needed.
+
+----------------------------------------Controlling Flow and Converting Types----------------------------------------------------
+1. What happens when you divide an int variable by 0?
+	The program will throw a DividByZeroException
+
+2. What happens when you divide a double variable by 0?
+	The program will return Infinity / negative infinity / NAN
+
+3. What happens when you overflow an int variable, that is, set it to a value beyond its range?
+	It wraps around from max value to min value and keep going
+
+4. What is the difference between x = y++; and x = ++y;?
+	x = y++ assign x with the value of y first, then the value of y increment by 1;
+	x = ++y increment the value of y by 1 first, then assign its value to x
+
+5. What is the difference between break, continue, and return when used inside a loop statement?
+	break: terminates the closest enclosing iteration or switch statement.
+	continue: starts a new iteration of the closest enclosing iteration.
+	return: terminates execution of the function in which it appears and returns control to the caller.

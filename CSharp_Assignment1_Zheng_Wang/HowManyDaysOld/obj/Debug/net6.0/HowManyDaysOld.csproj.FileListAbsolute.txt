@@ -1,0 +1,15 @@
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\HowManyDaysOld\bin\Debug\net6.0\HowManyDaysOld.exe
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\HowManyDaysOld\bin\Debug\net6.0\HowManyDaysOld.deps.json
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\HowManyDaysOld\bin\Debug\net6.0\HowManyDaysOld.runtimeconfig.json
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\HowManyDaysOld\bin\Debug\net6.0\HowManyDaysOld.dll
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\HowManyDaysOld\bin\Debug\net6.0\HowManyDaysOld.pdb
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\HowManyDaysOld\obj\Debug\net6.0\HowManyDaysOld.csproj.AssemblyReference.cache
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\HowManyDaysOld\obj\Debug\net6.0\HowManyDaysOld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\HowManyDaysOld\obj\Debug\net6.0\HowManyDaysOld.AssemblyInfoInputs.cache
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\HowManyDaysOld\obj\Debug\net6.0\HowManyDaysOld.AssemblyInfo.cs
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\HowManyDaysOld\obj\Debug\net6.0\HowManyDaysOld.csproj.CoreCompileInputs.cache
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\HowManyDaysOld\obj\Debug\net6.0\HowManyDaysOld.dll
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\HowManyDaysOld\obj\Debug\net6.0\refint\HowManyDaysOld.dll
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\HowManyDaysOld\obj\Debug\net6.0\HowManyDaysOld.pdb
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\HowManyDaysOld\obj\Debug\net6.0\HowManyDaysOld.genruntimeconfig.cache
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\HowManyDaysOld\obj\Debug\net6.0\ref\HowManyDaysOld.dll

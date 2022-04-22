@@ -1,0 +1,15 @@
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ParseURL\bin\Debug\net6.0\ParseURL.exe
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ParseURL\bin\Debug\net6.0\ParseURL.deps.json
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ParseURL\bin\Debug\net6.0\ParseURL.runtimeconfig.json
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ParseURL\bin\Debug\net6.0\ParseURL.dll
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ParseURL\bin\Debug\net6.0\ParseURL.pdb
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ParseURL\obj\Debug\net6.0\ParseURL.csproj.AssemblyReference.cache
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ParseURL\obj\Debug\net6.0\ParseURL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ParseURL\obj\Debug\net6.0\ParseURL.AssemblyInfoInputs.cache
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ParseURL\obj\Debug\net6.0\ParseURL.AssemblyInfo.cs
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ParseURL\obj\Debug\net6.0\ParseURL.csproj.CoreCompileInputs.cache
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ParseURL\obj\Debug\net6.0\ParseURL.dll
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ParseURL\obj\Debug\net6.0\refint\ParseURL.dll
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ParseURL\obj\Debug\net6.0\ParseURL.pdb
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ParseURL\obj\Debug\net6.0\ParseURL.genruntimeconfig.cache
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ParseURL\obj\Debug\net6.0\ref\ParseURL.dll

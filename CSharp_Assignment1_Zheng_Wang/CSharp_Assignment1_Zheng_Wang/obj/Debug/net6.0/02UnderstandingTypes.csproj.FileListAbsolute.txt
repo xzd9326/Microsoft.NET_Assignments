@@ -1,0 +1,15 @@
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\CSharp_Assignment1_Zheng_Wang\bin\Debug\net6.0\02UnderstandingTypes.exe
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\CSharp_Assignment1_Zheng_Wang\bin\Debug\net6.0\02UnderstandingTypes.deps.json
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\CSharp_Assignment1_Zheng_Wang\bin\Debug\net6.0\02UnderstandingTypes.runtimeconfig.json
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\CSharp_Assignment1_Zheng_Wang\bin\Debug\net6.0\02UnderstandingTypes.dll
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\CSharp_Assignment1_Zheng_Wang\bin\Debug\net6.0\02UnderstandingTypes.pdb
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\CSharp_Assignment1_Zheng_Wang\obj\Debug\net6.0\02UnderstandingTypes.csproj.AssemblyReference.cache
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\CSharp_Assignment1_Zheng_Wang\obj\Debug\net6.0\02UnderstandingTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\CSharp_Assignment1_Zheng_Wang\obj\Debug\net6.0\02UnderstandingTypes.AssemblyInfoInputs.cache
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\CSharp_Assignment1_Zheng_Wang\obj\Debug\net6.0\02UnderstandingTypes.AssemblyInfo.cs
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\CSharp_Assignment1_Zheng_Wang\obj\Debug\net6.0\02UnderstandingTypes.csproj.CoreCompileInputs.cache
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\CSharp_Assignment1_Zheng_Wang\obj\Debug\net6.0\02UnderstandingTypes.dll
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\CSharp_Assignment1_Zheng_Wang\obj\Debug\net6.0\refint\02UnderstandingTypes.dll
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\CSharp_Assignment1_Zheng_Wang\obj\Debug\net6.0\02UnderstandingTypes.pdb
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\CSharp_Assignment1_Zheng_Wang\obj\Debug\net6.0\02UnderstandingTypes.genruntimeconfig.cache
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\CSharp_Assignment1_Zheng_Wang\obj\Debug\net6.0\ref\02UnderstandingTypes.dll

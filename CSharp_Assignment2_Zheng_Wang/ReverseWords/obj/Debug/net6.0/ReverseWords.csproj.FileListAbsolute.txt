@@ -1,0 +1,15 @@
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ReverseWords\bin\Debug\net6.0\ReverseWords.exe
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ReverseWords\bin\Debug\net6.0\ReverseWords.deps.json
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ReverseWords\bin\Debug\net6.0\ReverseWords.runtimeconfig.json
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ReverseWords\bin\Debug\net6.0\ReverseWords.dll
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ReverseWords\bin\Debug\net6.0\ReverseWords.pdb
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ReverseWords\obj\Debug\net6.0\ReverseWords.csproj.AssemblyReference.cache
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ReverseWords\obj\Debug\net6.0\ReverseWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ReverseWords\obj\Debug\net6.0\ReverseWords.AssemblyInfoInputs.cache
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ReverseWords\obj\Debug\net6.0\ReverseWords.AssemblyInfo.cs
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ReverseWords\obj\Debug\net6.0\ReverseWords.csproj.CoreCompileInputs.cache
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ReverseWords\obj\Debug\net6.0\ReverseWords.dll
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ReverseWords\obj\Debug\net6.0\refint\ReverseWords.dll
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ReverseWords\obj\Debug\net6.0\ReverseWords.pdb
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ReverseWords\obj\Debug\net6.0\ReverseWords.genruntimeconfig.cache
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ReverseWords\obj\Debug\net6.0\ref\ReverseWords.dll

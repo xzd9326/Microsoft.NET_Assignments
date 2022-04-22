@@ -1,0 +1,15 @@
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\SumOfKRotations\bin\Debug\net6.0\SumOfKRotations.exe
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\SumOfKRotations\bin\Debug\net6.0\SumOfKRotations.deps.json
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\SumOfKRotations\bin\Debug\net6.0\SumOfKRotations.runtimeconfig.json
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\SumOfKRotations\bin\Debug\net6.0\SumOfKRotations.dll
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\SumOfKRotations\bin\Debug\net6.0\SumOfKRotations.pdb
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\SumOfKRotations\obj\Debug\net6.0\SumOfKRotations.csproj.AssemblyReference.cache
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\SumOfKRotations\obj\Debug\net6.0\SumOfKRotations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\SumOfKRotations\obj\Debug\net6.0\SumOfKRotations.AssemblyInfoInputs.cache
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\SumOfKRotations\obj\Debug\net6.0\SumOfKRotations.AssemblyInfo.cs
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\SumOfKRotations\obj\Debug\net6.0\SumOfKRotations.csproj.CoreCompileInputs.cache
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\SumOfKRotations\obj\Debug\net6.0\SumOfKRotations.dll
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\SumOfKRotations\obj\Debug\net6.0\refint\SumOfKRotations.dll
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\SumOfKRotations\obj\Debug\net6.0\SumOfKRotations.pdb
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\SumOfKRotations\obj\Debug\net6.0\SumOfKRotations.genruntimeconfig.cache
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\SumOfKRotations\obj\Debug\net6.0\ref\SumOfKRotations.dll

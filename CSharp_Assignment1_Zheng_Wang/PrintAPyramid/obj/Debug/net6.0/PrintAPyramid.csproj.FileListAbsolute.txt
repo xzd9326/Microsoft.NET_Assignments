@@ -1,0 +1,15 @@
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\PrintAPyramid\bin\Debug\net6.0\PrintAPyramid.exe
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\PrintAPyramid\bin\Debug\net6.0\PrintAPyramid.deps.json
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\PrintAPyramid\bin\Debug\net6.0\PrintAPyramid.runtimeconfig.json
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\PrintAPyramid\bin\Debug\net6.0\PrintAPyramid.dll
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\PrintAPyramid\bin\Debug\net6.0\PrintAPyramid.pdb
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\PrintAPyramid\obj\Debug\net6.0\PrintAPyramid.csproj.AssemblyReference.cache
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\PrintAPyramid\obj\Debug\net6.0\PrintAPyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\PrintAPyramid\obj\Debug\net6.0\PrintAPyramid.AssemblyInfoInputs.cache
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\PrintAPyramid\obj\Debug\net6.0\PrintAPyramid.AssemblyInfo.cs
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\PrintAPyramid\obj\Debug\net6.0\PrintAPyramid.csproj.CoreCompileInputs.cache
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\PrintAPyramid\obj\Debug\net6.0\PrintAPyramid.dll
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\PrintAPyramid\obj\Debug\net6.0\refint\PrintAPyramid.dll
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\PrintAPyramid\obj\Debug\net6.0\PrintAPyramid.pdb
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\PrintAPyramid\obj\Debug\net6.0\PrintAPyramid.genruntimeconfig.cache
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\PrintAPyramid\obj\Debug\net6.0\ref\PrintAPyramid.dll

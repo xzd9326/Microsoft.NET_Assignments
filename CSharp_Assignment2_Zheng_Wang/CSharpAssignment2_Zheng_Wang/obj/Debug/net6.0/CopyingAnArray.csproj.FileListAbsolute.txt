@@ -1,0 +1,15 @@
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\CSharpAssignment2_Zheng_Wang\bin\Debug\net6.0\CopyingAnArray.exe
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\CSharpAssignment2_Zheng_Wang\bin\Debug\net6.0\CopyingAnArray.deps.json
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\CSharpAssignment2_Zheng_Wang\bin\Debug\net6.0\CopyingAnArray.runtimeconfig.json
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\CSharpAssignment2_Zheng_Wang\bin\Debug\net6.0\CopyingAnArray.dll
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\CSharpAssignment2_Zheng_Wang\bin\Debug\net6.0\CopyingAnArray.pdb
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\CSharpAssignment2_Zheng_Wang\obj\Debug\net6.0\CopyingAnArray.csproj.AssemblyReference.cache
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\CSharpAssignment2_Zheng_Wang\obj\Debug\net6.0\CopyingAnArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\CSharpAssignment2_Zheng_Wang\obj\Debug\net6.0\CopyingAnArray.AssemblyInfoInputs.cache
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\CSharpAssignment2_Zheng_Wang\obj\Debug\net6.0\CopyingAnArray.AssemblyInfo.cs
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\CSharpAssignment2_Zheng_Wang\obj\Debug\net6.0\CopyingAnArray.csproj.CoreCompileInputs.cache
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\CSharpAssignment2_Zheng_Wang\obj\Debug\net6.0\CopyingAnArray.dll
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\CSharpAssignment2_Zheng_Wang\obj\Debug\net6.0\refint\CopyingAnArray.dll
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\CSharpAssignment2_Zheng_Wang\obj\Debug\net6.0\CopyingAnArray.pdb
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\CSharpAssignment2_Zheng_Wang\obj\Debug\net6.0\CopyingAnArray.genruntimeconfig.cache
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\CSharpAssignment2_Zheng_Wang\obj\Debug\net6.0\ref\CopyingAnArray.dll

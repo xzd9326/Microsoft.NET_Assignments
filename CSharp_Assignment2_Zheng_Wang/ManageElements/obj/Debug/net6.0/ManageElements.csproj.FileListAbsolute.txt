@@ -1,0 +1,15 @@
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ManageElements\bin\Debug\net6.0\ManageElements.exe
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ManageElements\bin\Debug\net6.0\ManageElements.deps.json
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ManageElements\bin\Debug\net6.0\ManageElements.runtimeconfig.json
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ManageElements\bin\Debug\net6.0\ManageElements.dll
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ManageElements\bin\Debug\net6.0\ManageElements.pdb
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ManageElements\obj\Debug\net6.0\ManageElements.csproj.AssemblyReference.cache
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ManageElements\obj\Debug\net6.0\ManageElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ManageElements\obj\Debug\net6.0\ManageElements.AssemblyInfoInputs.cache
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ManageElements\obj\Debug\net6.0\ManageElements.AssemblyInfo.cs
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ManageElements\obj\Debug\net6.0\ManageElements.csproj.CoreCompileInputs.cache
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ManageElements\obj\Debug\net6.0\ManageElements.dll
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ManageElements\obj\Debug\net6.0\refint\ManageElements.dll
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ManageElements\obj\Debug\net6.0\ManageElements.pdb
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ManageElements\obj\Debug\net6.0\ManageElements.genruntimeconfig.cache
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\ManageElements\obj\Debug\net6.0\ref\ManageElements.dll

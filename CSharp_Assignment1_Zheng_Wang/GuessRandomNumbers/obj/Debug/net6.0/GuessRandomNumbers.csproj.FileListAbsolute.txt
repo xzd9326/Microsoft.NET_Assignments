@@ -1,0 +1,15 @@
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\GuessRandomNumbers\bin\Debug\net6.0\GuessRandomNumbers.exe
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\GuessRandomNumbers\bin\Debug\net6.0\GuessRandomNumbers.deps.json
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\GuessRandomNumbers\bin\Debug\net6.0\GuessRandomNumbers.runtimeconfig.json
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\GuessRandomNumbers\bin\Debug\net6.0\GuessRandomNumbers.dll
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\GuessRandomNumbers\bin\Debug\net6.0\GuessRandomNumbers.pdb
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\GuessRandomNumbers\obj\Debug\net6.0\GuessRandomNumbers.csproj.AssemblyReference.cache
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\GuessRandomNumbers\obj\Debug\net6.0\GuessRandomNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\GuessRandomNumbers\obj\Debug\net6.0\GuessRandomNumbers.AssemblyInfoInputs.cache
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\GuessRandomNumbers\obj\Debug\net6.0\GuessRandomNumbers.AssemblyInfo.cs
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\GuessRandomNumbers\obj\Debug\net6.0\GuessRandomNumbers.csproj.CoreCompileInputs.cache
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\GuessRandomNumbers\obj\Debug\net6.0\GuessRandomNumbers.dll
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\GuessRandomNumbers\obj\Debug\net6.0\refint\GuessRandomNumbers.dll
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\GuessRandomNumbers\obj\Debug\net6.0\GuessRandomNumbers.pdb
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\GuessRandomNumbers\obj\Debug\net6.0\GuessRandomNumbers.genruntimeconfig.cache
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\GuessRandomNumbers\obj\Debug\net6.0\ref\GuessRandomNumbers.dll

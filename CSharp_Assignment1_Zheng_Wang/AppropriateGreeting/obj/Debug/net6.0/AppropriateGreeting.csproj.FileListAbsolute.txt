@@ -1,0 +1,15 @@
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\AppropriateGreeting\bin\Debug\net6.0\AppropriateGreeting.exe
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\AppropriateGreeting\bin\Debug\net6.0\AppropriateGreeting.deps.json
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\AppropriateGreeting\bin\Debug\net6.0\AppropriateGreeting.runtimeconfig.json
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\AppropriateGreeting\bin\Debug\net6.0\AppropriateGreeting.dll
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\AppropriateGreeting\bin\Debug\net6.0\AppropriateGreeting.pdb
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\AppropriateGreeting\obj\Debug\net6.0\AppropriateGreeting.csproj.AssemblyReference.cache
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\AppropriateGreeting\obj\Debug\net6.0\AppropriateGreeting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\AppropriateGreeting\obj\Debug\net6.0\AppropriateGreeting.AssemblyInfoInputs.cache
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\AppropriateGreeting\obj\Debug\net6.0\AppropriateGreeting.AssemblyInfo.cs
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\AppropriateGreeting\obj\Debug\net6.0\AppropriateGreeting.csproj.CoreCompileInputs.cache
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\AppropriateGreeting\obj\Debug\net6.0\AppropriateGreeting.dll
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\AppropriateGreeting\obj\Debug\net6.0\refint\AppropriateGreeting.dll
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\AppropriateGreeting\obj\Debug\net6.0\AppropriateGreeting.pdb
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\AppropriateGreeting\obj\Debug\net6.0\AppropriateGreeting.genruntimeconfig.cache
+C:\Users\zwang\source\repos\CSharp_Assignment1_Zheng_Wang\AppropriateGreeting\obj\Debug\net6.0\ref\AppropriateGreeting.dll

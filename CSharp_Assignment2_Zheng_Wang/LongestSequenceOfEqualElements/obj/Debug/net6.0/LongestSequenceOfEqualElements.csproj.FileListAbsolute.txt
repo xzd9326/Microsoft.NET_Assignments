@@ -1,0 +1,15 @@
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\LongestSequenceOfEqualElements\bin\Debug\net6.0\LongestSequenceOfEqualElements.exe
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\LongestSequenceOfEqualElements\bin\Debug\net6.0\LongestSequenceOfEqualElements.deps.json
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\LongestSequenceOfEqualElements\bin\Debug\net6.0\LongestSequenceOfEqualElements.runtimeconfig.json
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\LongestSequenceOfEqualElements\bin\Debug\net6.0\LongestSequenceOfEqualElements.dll
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\LongestSequenceOfEqualElements\bin\Debug\net6.0\LongestSequenceOfEqualElements.pdb
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\LongestSequenceOfEqualElements\obj\Debug\net6.0\LongestSequenceOfEqualElements.csproj.AssemblyReference.cache
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\LongestSequenceOfEqualElements\obj\Debug\net6.0\LongestSequenceOfEqualElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\LongestSequenceOfEqualElements\obj\Debug\net6.0\LongestSequenceOfEqualElements.AssemblyInfoInputs.cache
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\LongestSequenceOfEqualElements\obj\Debug\net6.0\LongestSequenceOfEqualElements.AssemblyInfo.cs
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\LongestSequenceOfEqualElements\obj\Debug\net6.0\LongestSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\LongestSequenceOfEqualElements\obj\Debug\net6.0\LongestSequenceOfEqualElements.dll
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\LongestSequenceOfEqualElements\obj\Debug\net6.0\refint\LongestSequenceOfEqualElements.dll
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\LongestSequenceOfEqualElements\obj\Debug\net6.0\LongestSequenceOfEqualElements.pdb
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\LongestSequenceOfEqualElements\obj\Debug\net6.0\LongestSequenceOfEqualElements.genruntimeconfig.cache
+C:\Users\zwang\source\repos\CSharpAssignment2_Zheng_Wang\LongestSequenceOfEqualElements\obj\Debug\net6.0\ref\LongestSequenceOfEqualElements.dll
