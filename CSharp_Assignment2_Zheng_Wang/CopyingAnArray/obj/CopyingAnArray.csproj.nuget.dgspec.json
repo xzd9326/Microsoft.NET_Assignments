@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zwang\\source\\repos\\CSharpAssignment2_Zheng_Wang\\CSharpAssignment2_Zheng_Wang\\CopyingAnArray.csproj": {}
+    "D:\\GitHub\\Microsoft.NET_Assignments\\CSharp_Assignment2_Zheng_Wang\\CopyingAnArray\\CopyingAnArray.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zwang\\source\\repos\\CSharpAssignment2_Zheng_Wang\\CSharpAssignment2_Zheng_Wang\\CopyingAnArray.csproj": {
+    "D:\\GitHub\\Microsoft.NET_Assignments\\CSharp_Assignment2_Zheng_Wang\\CopyingAnArray\\CopyingAnArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zwang\\source\\repos\\CSharpAssignment2_Zheng_Wang\\CSharpAssignment2_Zheng_Wang\\CopyingAnArray.csproj",
+        "projectUniqueName": "D:\\GitHub\\Microsoft.NET_Assignments\\CSharp_Assignment2_Zheng_Wang\\CopyingAnArray\\CopyingAnArray.csproj",
         "projectName": "CopyingAnArray",
-        "projectPath": "C:\\Users\\zwang\\source\\repos\\CSharpAssignment2_Zheng_Wang\\CSharpAssignment2_Zheng_Wang\\CopyingAnArray.csproj",
+        "projectPath": "D:\\GitHub\\Microsoft.NET_Assignments\\CSharp_Assignment2_Zheng_Wang\\CopyingAnArray\\CopyingAnArray.csproj",
         "packagesPath": "C:\\Users\\zwang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zwang\\source\\repos\\CSharpAssignment2_Zheng_Wang\\CSharpAssignment2_Zheng_Wang\\obj\\",
+        "outputPath": "D:\\GitHub\\Microsoft.NET_Assignments\\CSharp_Assignment2_Zheng_Wang\\CopyingAnArray\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zwang\\AppData\\Roaming\\NuGet\\NuGet.Config",

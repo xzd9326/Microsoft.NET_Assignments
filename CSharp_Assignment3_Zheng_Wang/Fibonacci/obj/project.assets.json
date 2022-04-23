@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zwang\\source\\repos\\CSharp_Assignment3_Zheng_Wang\\Fibonacci\\Fibonacci.csproj",
+      "projectUniqueName": "D:\\GitHub\\Microsoft.NET_Assignments\\CSharp_Assignment3_Zheng_Wang\\Fibonacci\\Fibonacci.csproj",
       "projectName": "Fibonacci",
-      "projectPath": "C:\\Users\\zwang\\source\\repos\\CSharp_Assignment3_Zheng_Wang\\Fibonacci\\Fibonacci.csproj",
+      "projectPath": "D:\\GitHub\\Microsoft.NET_Assignments\\CSharp_Assignment3_Zheng_Wang\\Fibonacci\\Fibonacci.csproj",
       "packagesPath": "C:\\Users\\zwang\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zwang\\source\\repos\\CSharp_Assignment3_Zheng_Wang\\Fibonacci\\obj\\",
+      "outputPath": "D:\\GitHub\\Microsoft.NET_Assignments\\CSharp_Assignment3_Zheng_Wang\\Fibonacci\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zwang\\AppData\\Roaming\\NuGet\\NuGet.Config",

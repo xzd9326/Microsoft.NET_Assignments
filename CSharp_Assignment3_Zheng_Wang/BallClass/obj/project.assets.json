@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zwang\\source\\repos\\CSharp_Assignment3_Zheng_Wang\\BallClass\\ColloredBall.csproj",
+      "projectUniqueName": "D:\\GitHub\\Microsoft.NET_Assignments\\CSharp_Assignment3_Zheng_Wang\\BallClass\\ColloredBall.csproj",
       "projectName": "ColloredBall",
-      "projectPath": "C:\\Users\\zwang\\source\\repos\\CSharp_Assignment3_Zheng_Wang\\BallClass\\ColloredBall.csproj",
+      "projectPath": "D:\\GitHub\\Microsoft.NET_Assignments\\CSharp_Assignment3_Zheng_Wang\\BallClass\\ColloredBall.csproj",
       "packagesPath": "C:\\Users\\zwang\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zwang\\source\\repos\\CSharp_Assignment3_Zheng_Wang\\BallClass\\obj\\",
+      "outputPath": "D:\\GitHub\\Microsoft.NET_Assignments\\CSharp_Assignment3_Zheng_Wang\\BallClass\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zwang\\AppData\\Roaming\\NuGet\\NuGet.Config",

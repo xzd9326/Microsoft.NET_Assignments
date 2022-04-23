@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32407.343
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyingAnArray", "CSharpAssignment2_Zheng_Wang\CopyingAnArray.csproj", "{3CEB4C1D-55AB-4A97-97FB-88CC21010BC5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyingAnArray", "CopyingAnArray\CopyingAnArray.csproj", "{3CEB4C1D-55AB-4A97-97FB-88CC21010BC5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManageElements", "ManageElements\ManageElements.csproj", "{71C9E4D7-73C2-4BF6-BDB7-E413002AB785}"
 EndProject

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "06GNFVaNroBYacVv4xGCj1eDsHvXIXkWY6YxxA4sVhzGy5IEGiB6ql9KGMFDaY654HwBPItz3ph5Q7fQHdgfEQ==",
+  "dgSpecHash": "aWkZTzm6nXOdJ2Tak+el2G5fl+iElTGt0wwA9gNlZLQPLItC+KeZP/925WGBKswjdTeuUB7GwSSMec9dWGNqPg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zwang\\source\\repos\\CSharpAssignment2_Zheng_Wang\\LongestSequenceOfEqualElements\\LongestSequenceOfEqualElements.csproj",
+  "projectFilePath": "D:\\GitHub\\Microsoft.NET_Assignments\\CSharp_Assignment2_Zheng_Wang\\LongestSequenceOfEqualElements\\LongestSequenceOfEqualElements.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

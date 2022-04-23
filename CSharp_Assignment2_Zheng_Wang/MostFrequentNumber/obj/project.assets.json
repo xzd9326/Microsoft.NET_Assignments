@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zwang\\source\\repos\\CSharpAssignment2_Zheng_Wang\\MostFrequentNumber\\MostFrequentNumber.csproj",
+      "projectUniqueName": "D:\\GitHub\\Microsoft.NET_Assignments\\CSharp_Assignment2_Zheng_Wang\\MostFrequentNumber\\MostFrequentNumber.csproj",
       "projectName": "MostFrequentNumber",
-      "projectPath": "C:\\Users\\zwang\\source\\repos\\CSharpAssignment2_Zheng_Wang\\MostFrequentNumber\\MostFrequentNumber.csproj",
+      "projectPath": "D:\\GitHub\\Microsoft.NET_Assignments\\CSharp_Assignment2_Zheng_Wang\\MostFrequentNumber\\MostFrequentNumber.csproj",
       "packagesPath": "C:\\Users\\zwang\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zwang\\source\\repos\\CSharpAssignment2_Zheng_Wang\\MostFrequentNumber\\obj\\",
+      "outputPath": "D:\\GitHub\\Microsoft.NET_Assignments\\CSharp_Assignment2_Zheng_Wang\\MostFrequentNumber\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zwang\\AppData\\Roaming\\NuGet\\NuGet.Config",

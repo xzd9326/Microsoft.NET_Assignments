@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zwang\\source\\repos\\CSharpAssignment2_Zheng_Wang\\PrimeNumbers\\PrimeNumbers.csproj": {}
+    "D:\\GitHub\\Microsoft.NET_Assignments\\CSharp_Assignment2_Zheng_Wang\\PrimeNumbers\\PrimeNumbers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zwang\\source\\repos\\CSharpAssignment2_Zheng_Wang\\PrimeNumbers\\PrimeNumbers.csproj": {
+    "D:\\GitHub\\Microsoft.NET_Assignments\\CSharp_Assignment2_Zheng_Wang\\PrimeNumbers\\PrimeNumbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zwang\\source\\repos\\CSharpAssignment2_Zheng_Wang\\PrimeNumbers\\PrimeNumbers.csproj",
+        "projectUniqueName": "D:\\GitHub\\Microsoft.NET_Assignments\\CSharp_Assignment2_Zheng_Wang\\PrimeNumbers\\PrimeNumbers.csproj",
         "projectName": "PrimeNumbers",
-        "projectPath": "C:\\Users\\zwang\\source\\repos\\CSharpAssignment2_Zheng_Wang\\PrimeNumbers\\PrimeNumbers.csproj",
+        "projectPath": "D:\\GitHub\\Microsoft.NET_Assignments\\CSharp_Assignment2_Zheng_Wang\\PrimeNumbers\\PrimeNumbers.csproj",
         "packagesPath": "C:\\Users\\zwang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zwang\\source\\repos\\CSharpAssignment2_Zheng_Wang\\PrimeNumbers\\obj\\",
+        "outputPath": "D:\\GitHub\\Microsoft.NET_Assignments\\CSharp_Assignment2_Zheng_Wang\\PrimeNumbers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zwang\\AppData\\Roaming\\NuGet\\NuGet.Config",

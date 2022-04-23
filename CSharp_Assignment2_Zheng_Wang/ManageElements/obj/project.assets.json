@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zwang\\source\\repos\\CSharpAssignment2_Zheng_Wang\\ManageElements\\ManageElements.csproj",
+      "projectUniqueName": "D:\\GitHub\\Microsoft.NET_Assignments\\CSharp_Assignment2_Zheng_Wang\\ManageElements\\ManageElements.csproj",
       "projectName": "ManageElements",
-      "projectPath": "C:\\Users\\zwang\\source\\repos\\CSharpAssignment2_Zheng_Wang\\ManageElements\\ManageElements.csproj",
+      "projectPath": "D:\\GitHub\\Microsoft.NET_Assignments\\CSharp_Assignment2_Zheng_Wang\\ManageElements\\ManageElements.csproj",
       "packagesPath": "C:\\Users\\zwang\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zwang\\source\\repos\\CSharpAssignment2_Zheng_Wang\\ManageElements\\obj\\",
+      "outputPath": "D:\\GitHub\\Microsoft.NET_Assignments\\CSharp_Assignment2_Zheng_Wang\\ManageElements\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zwang\\AppData\\Roaming\\NuGet\\NuGet.Config",

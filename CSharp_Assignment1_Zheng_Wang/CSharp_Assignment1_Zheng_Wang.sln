@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32407.343
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02UnderstandingTypes", "CSharp_Assignment1_Zheng_Wang\02UnderstandingTypes.csproj", "{D0B3AD02-1846-4E8D-BDD0-A1B64A86BC29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02UnderstandingTypes", "02UnderstandingTypes\02UnderstandingTypes.csproj", "{D0B3AD02-1846-4E8D-BDD0-A1B64A86BC29}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticeLoopsAndOperators", "FizzBuzz\PracticeLoopsAndOperators.csproj", "{A80F394A-1EBD-46E9-8F69-2180B93E047C}"
 EndProject
