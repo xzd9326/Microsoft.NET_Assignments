@@ -1,0 +1,15 @@
+C:\Users\zwang\source\repos\CSharp_Assignment3_Zheng_Wang\BallClass\obj\Debug\net6.0\ColloredBall.csproj.AssemblyReference.cache
+C:\Users\zwang\source\repos\CSharp_Assignment3_Zheng_Wang\BallClass\obj\Debug\net6.0\ColloredBall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zwang\source\repos\CSharp_Assignment3_Zheng_Wang\BallClass\obj\Debug\net6.0\ColloredBall.AssemblyInfoInputs.cache
+C:\Users\zwang\source\repos\CSharp_Assignment3_Zheng_Wang\BallClass\obj\Debug\net6.0\ColloredBall.AssemblyInfo.cs
+C:\Users\zwang\source\repos\CSharp_Assignment3_Zheng_Wang\BallClass\obj\Debug\net6.0\ColloredBall.csproj.CoreCompileInputs.cache
+C:\Users\zwang\source\repos\CSharp_Assignment3_Zheng_Wang\BallClass\bin\Debug\net6.0\ColloredBall.exe
+C:\Users\zwang\source\repos\CSharp_Assignment3_Zheng_Wang\BallClass\bin\Debug\net6.0\ColloredBall.deps.json
+C:\Users\zwang\source\repos\CSharp_Assignment3_Zheng_Wang\BallClass\bin\Debug\net6.0\ColloredBall.runtimeconfig.json
+C:\Users\zwang\source\repos\CSharp_Assignment3_Zheng_Wang\BallClass\bin\Debug\net6.0\ColloredBall.dll
+C:\Users\zwang\source\repos\CSharp_Assignment3_Zheng_Wang\BallClass\bin\Debug\net6.0\ColloredBall.pdb
+C:\Users\zwang\source\repos\CSharp_Assignment3_Zheng_Wang\BallClass\obj\Debug\net6.0\ColloredBall.dll
+C:\Users\zwang\source\repos\CSharp_Assignment3_Zheng_Wang\BallClass\obj\Debug\net6.0\refint\ColloredBall.dll
+C:\Users\zwang\source\repos\CSharp_Assignment3_Zheng_Wang\BallClass\obj\Debug\net6.0\ColloredBall.pdb
+C:\Users\zwang\source\repos\CSharp_Assignment3_Zheng_Wang\BallClass\obj\Debug\net6.0\ColloredBall.genruntimeconfig.cache
+C:\Users\zwang\source\repos\CSharp_Assignment3_Zheng_Wang\BallClass\obj\Debug\net6.0\ref\ColloredBall.dll

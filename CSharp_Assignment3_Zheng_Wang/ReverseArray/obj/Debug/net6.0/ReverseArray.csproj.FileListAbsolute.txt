@@ -1,0 +1,15 @@
+C:\Users\zwang\source\repos\CSharp_Assignment3_Zheng_Wang\CSharp_Assignment3_Zheng_Wang\bin\Debug\net6.0\ReverseArray.exe
+C:\Users\zwang\source\repos\CSharp_Assignment3_Zheng_Wang\CSharp_Assignment3_Zheng_Wang\bin\Debug\net6.0\ReverseArray.deps.json
+C:\Users\zwang\source\repos\CSharp_Assignment3_Zheng_Wang\CSharp_Assignment3_Zheng_Wang\bin\Debug\net6.0\ReverseArray.runtimeconfig.json
+C:\Users\zwang\source\repos\CSharp_Assignment3_Zheng_Wang\CSharp_Assignment3_Zheng_Wang\bin\Debug\net6.0\ReverseArray.dll
+C:\Users\zwang\source\repos\CSharp_Assignment3_Zheng_Wang\CSharp_Assignment3_Zheng_Wang\bin\Debug\net6.0\ReverseArray.pdb
+C:\Users\zwang\source\repos\CSharp_Assignment3_Zheng_Wang\CSharp_Assignment3_Zheng_Wang\obj\Debug\net6.0\ReverseArray.csproj.AssemblyReference.cache
+C:\Users\zwang\source\repos\CSharp_Assignment3_Zheng_Wang\CSharp_Assignment3_Zheng_Wang\obj\Debug\net6.0\ReverseArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zwang\source\repos\CSharp_Assignment3_Zheng_Wang\CSharp_Assignment3_Zheng_Wang\obj\Debug\net6.0\ReverseArray.AssemblyInfoInputs.cache
+C:\Users\zwang\source\repos\CSharp_Assignment3_Zheng_Wang\CSharp_Assignment3_Zheng_Wang\obj\Debug\net6.0\ReverseArray.AssemblyInfo.cs
+C:\Users\zwang\source\repos\CSharp_Assignment3_Zheng_Wang\CSharp_Assignment3_Zheng_Wang\obj\Debug\net6.0\ReverseArray.csproj.CoreCompileInputs.cache
+C:\Users\zwang\source\repos\CSharp_Assignment3_Zheng_Wang\CSharp_Assignment3_Zheng_Wang\obj\Debug\net6.0\ReverseArray.dll
+C:\Users\zwang\source\repos\CSharp_Assignment3_Zheng_Wang\CSharp_Assignment3_Zheng_Wang\obj\Debug\net6.0\refint\ReverseArray.dll
+C:\Users\zwang\source\repos\CSharp_Assignment3_Zheng_Wang\CSharp_Assignment3_Zheng_Wang\obj\Debug\net6.0\ReverseArray.pdb
+C:\Users\zwang\source\repos\CSharp_Assignment3_Zheng_Wang\CSharp_Assignment3_Zheng_Wang\obj\Debug\net6.0\ReverseArray.genruntimeconfig.cache
+C:\Users\zwang\source\repos\CSharp_Assignment3_Zheng_Wang\CSharp_Assignment3_Zheng_Wang\obj\Debug\net6.0\ref\ReverseArray.dll
