@@ -6,31 +6,47 @@ using System.Threading.Tasks;
 
 namespace ImplementRepository
 {
-    public class GenericRepository : IRepository<T>
+    public class GenericRepository : IRepository<Data>
     {
-        public void Add(T item)
+        List<Data> lstData = new List<Data>();
+        public void Add(Data item)
         {
-            throw new NotImplementedException();
+            lstData.Add(item);
         }
 
-        public IEnumerable<T> GetAll()
+        public IEnumerable<Data> GetAll()
         {
-            throw new NotImplementedException();
+            return lstData;
         }
 
-        public T GetById(int id)
+        public Data GetById(int id)
         {
-            throw new NotImplementedException();
+            for (int i = 0; i < lstData.Count; i++)
+            {
+                if (lstData[i].Id == id)
+                {
+                    return lstData[i];
+                }
+            }
+            return null;
         }
 
-        public void Remove(T item)
+        public void Remove(Data item)
         {
-            throw new NotImplementedException();
+            Data d = GetById(item.Id);
+            if (d != null)
+            {
+                lstData.Remove(d);
+            }
         }
 
         public void Save()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Save Database");
+            foreach (Data item in lstData)
+            {
+                Console.WriteLine($"Data id {item.Id} saved successfully.");
+            }
         }
     }
 }
