@@ -15,7 +15,7 @@ namespace DesignClasses.DataModel
         public DateTime Birthday { get; set; }
         public string Email { get; set; }
         public string Phone { get; set; }
-        public string Address { get; set; }
+        public string[] Addresses { get; set; }
         public abstract void Behavior();
     }
     // Inheritance: properties such as Id, Name, Email are inherited by Instructor and Student classes

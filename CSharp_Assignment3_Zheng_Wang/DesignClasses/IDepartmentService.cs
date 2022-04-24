@@ -9,5 +9,7 @@ namespace DesignClasses
     public interface IDepartmentService
     {
         IInstructorService GetHead();
+        String GetName();
+        //List<ICourseService> GetAllCourses();
     }
 }

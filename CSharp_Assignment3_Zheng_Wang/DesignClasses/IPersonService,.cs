@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace DesignClasses
 {
-    internal interface Interface1
+    public interface IPersonService
     {
+
     }
 }

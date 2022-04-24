@@ -9,6 +9,7 @@ namespace DesignClasses
     public interface IInstructorService: IPersonService
     {
         IDepartmentService GetDepartment();
-        
+        bool IsHead();
+        uint GetYearsOfExperience();
     }
 }
