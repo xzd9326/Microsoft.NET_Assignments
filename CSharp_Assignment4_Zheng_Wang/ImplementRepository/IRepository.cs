@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ImplementRepository
 {
-    public interface IRepository<T> where T: class
+    public interface IRepository<T> where T: Entity
     {
         void Add(T item);
         void Remove(T item);

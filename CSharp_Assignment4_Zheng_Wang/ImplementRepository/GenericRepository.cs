@@ -6,20 +6,20 @@ using System.Threading.Tasks;
 
 namespace ImplementRepository
 {
-    public class GenericRepository : IRepository<Data>
+    public class GenericRepository<T>: IRepository<T> where T : Entity
     {
-        List<Data> lstData = new List<Data>();
-        public void Add(Data item)
+        List<T> lstData = new List<T>();
+        public void Add(T item)
         {
             lstData.Add(item);
         }
 
-        public IEnumerable<Data> GetAll()
+        public IEnumerable<T> GetAll()
         {
             return lstData;
         }
 
-        public Data GetById(int id)
+        public T GetById(int id)
         {
             for (int i = 0; i < lstData.Count; i++)
             {
@@ -31,9 +31,9 @@ namespace ImplementRepository
             return null;
         }
 
-        public void Remove(Data item)
+        public void Remove(T item)
         {
-            Data d = GetById(item.Id);
+            T d = GetById(item.Id);
             if (d != null)
             {
                 lstData.Remove(d);
@@ -43,7 +43,7 @@ namespace ImplementRepository
         public void Save()
         {
             Console.WriteLine("Save Database");
-            foreach (Data item in lstData)
+            foreach (T item in lstData)
             {
                 Console.WriteLine($"Data id {item.Id} saved successfully.");
             }
