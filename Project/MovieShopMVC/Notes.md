@@ -35,3 +35,31 @@ You create model classes based on the requirement of the view
 
 Repositories classes/interfaces they deal with Entity classes
 Services classes/interfaces they deal with Model classes
+
+
+Every View before rendering, it will inherit view start and => Layout
+
+MovieCard view in multiple views
+Home/index -> MovieCard
+User/purchases => MovieCard
+User/Favorites => MovieCard
+
+Partial View => MovieCardPartial and then you can reuse it across multiple views
+
+Dependency Injection
+Design Pattern that enables you to write loosely coupled code
+tightly coupled code vs loosely coupled
+
+easy to maintain
+easy to test
+easy to change the functionality without changing much of the code
+
+
+method(int x, IMovieService service)
+
+var movieService = new MovieService();
+var movieService2 = new MovieTestService();
+
+method(5, movieService)
+
+HomeController c = new HomeController();

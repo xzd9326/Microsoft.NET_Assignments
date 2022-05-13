@@ -1,4 +1,5 @@
-﻿using Infrastructure.Services;
+﻿using ApplicationCore.Contracts.Services;
+using Infrastructure.Services;
 using Microsoft.AspNetCore.Mvc;
 using MovieShopMVC.Models;
 using System.Diagnostics;
@@ -8,18 +9,22 @@ namespace MovieShopMVC.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-
-        public HomeController(ILogger<HomeController> logger)
+        private readonly IMovieService _movieService;
+        public HomeController(ILogger<HomeController> logger, IMovieService movieService)
         {
             _logger = logger;
+            _movieService = movieService;
+            // we want code to be relied on abstractions rather than concrete types
         }
         // Action methods
         // https://localhost:7211/home/index
         [HttpGet]
         public IActionResult Index()
         {
-            var movieService = new MovieService();
-            var movieCards = movieService.GetTop30GrossingMovies();
+            // newing up
+            // we can have some higher level framework to create instances
+           // var movieService = new MovieService();
+            var movieCards = _movieService.GetTop30GrossingMovies();
             // passing the data from Controller action method to View
             return View(movieCards);
         }
