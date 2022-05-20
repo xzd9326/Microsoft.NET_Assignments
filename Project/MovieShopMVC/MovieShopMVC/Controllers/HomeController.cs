@@ -1,4 +1,5 @@
 ﻿using ApplicationCore.Contracts.Services;
+using Infrastructure.Repositories;
 using Infrastructure.Services;
 using Microsoft.AspNetCore.Mvc;
 using MovieShopMVC.Models;
@@ -14,17 +15,18 @@ namespace MovieShopMVC.Controllers
         {
             _logger = logger;
             _movieService = movieService;
-            // we want code to be relied on abstractions rather than concrete types
+            // code to be relied on abstarctions rather than concrete types
         }
+
         // Action methods
         // https://localhost:7211/home/index
         [HttpGet]
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
             // newing up
             // we can have some higher level framework to create instances
-           // var movieService = new MovieService();
-            var movieCards = _movieService.GetTop30GrossingMovies();
+            // var movieService = new MovieService();
+            var movieCards = await _movieService.GetTop30GrossingMovies();
             // passing the data from Controller action method to View
             return View(movieCards);
         }
@@ -41,6 +43,7 @@ namespace MovieShopMVC.Controllers
         {
             return View();
         }
+
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

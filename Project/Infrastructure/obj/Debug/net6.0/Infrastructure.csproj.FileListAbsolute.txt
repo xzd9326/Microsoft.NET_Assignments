@@ -13,3 +13,5 @@ C:\Users\zwang\source\repos\Project\Infrastructure\obj\Debug\net6.0\Infrastructu
 C:\Users\zwang\source\repos\Project\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
 C:\Users\zwang\source\repos\Project\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
 C:\Users\zwang\source\repos\Project\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
+C:\Users\zwang\source\repos\Project\Infrastructure\bin\Debug\net6.0\Infrastructure.runtimeconfig.json
+C:\Users\zwang\source\repos\Project\Infrastructure\obj\Debug\net6.0\Infrastructure.genruntimeconfig.cache

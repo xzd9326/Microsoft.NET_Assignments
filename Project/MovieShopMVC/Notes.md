@@ -63,3 +63,21 @@ var movieService2 = new MovieTestService();
 method(5, movieService)
 
 HomeController c = new HomeController();
+
+
+### EF Core Code First Approach using Migrations
+
+1. Create an Entity that you need based on Table requirement
+1. Establish the connection string where you want the database to be created
+1. Install required libraries from NuGet
+1. DbContext -> Represents your database and DbSet -> represents your table
+1. Create Custom DbContext class that inherits from DbContext base class
+1. Inject DbContextOptions from Program.cs with connection string into DbContext
+1. Create DbSet<Entity> property inside the DbContext
+1. add-migration
+1. update-database
+1. Check the SQL Server if the databse and table are created
+1. Do not change the Database schema maneally, always go from Code and anpply new migration
+1. Two ways to model our Code first design
+	1. Data Annotations
+	1. Fluent API takes
