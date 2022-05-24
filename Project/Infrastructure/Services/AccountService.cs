@@ -41,7 +41,8 @@ namespace Infrastructure.Services
                     Id = dbUser.Id,
                     Email = dbUser.Email,
                     FirstName = dbUser.FirstName,
-                    LastName = dbUser.LastName
+                    LastName = dbUser.LastName,
+                    DateOfBirth = dbUser.DateOfBirth.GetValueOrDefault()
                 };
                 return userLoginResponseModel;
             }
@@ -100,11 +101,11 @@ namespace Infrastructure.Services
         private string GetHashedPassword(string password, string salt)
         {
             var hashed = Convert.ToBase64String(KeyDerivation.Pbkdf2(
-           password,
-           Convert.FromBase64String(salt),
-           KeyDerivationPrf.HMACSHA512,
-           10000,
-           256 / 8));
+               password,
+               Convert.FromBase64String(salt),
+               KeyDerivationPrf.HMACSHA512,
+               10000,
+               256 / 8));
             return hashed;
         }
     }

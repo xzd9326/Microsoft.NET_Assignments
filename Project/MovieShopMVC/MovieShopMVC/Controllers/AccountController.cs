@@ -1,7 +1,10 @@
 ﻿using ApplicationCore.Contracts.Services;
 using ApplicationCore.Exceptions;
 using ApplicationCore.Models;
+using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Mvc;
+using System.Security.Claims;
 
 namespace MovieShopMVC.Controllers
 {
@@ -53,24 +56,51 @@ namespace MovieShopMVC.Controllers
 
             // http 10:00 AM => email/pw => create something so that, auth cookie ( 2 hrs) 
             // http 10:05 AM => user/purchases
+            // create a cookie, userid, email, -> encrypted, expiration time
+            // each and every time you make an http request the cookies are sent to server in http
             // Cookie based authentication
 
             // 1:00 PM => user/purchases, redirect to the login page
+
             try
             {
                 var user = await _accountService.LoginUser(model.Email, model.Password);
-                if (user != null)
+                if (user == null)
                 {
-                    // redirect to home page
-                    return LocalRedirect("~/");
+                    throw new Exception("Email does not exists");
                 }
+
+                // claims => things that represent you
+                // Driver Licence -> First Name, Last Name, DOF
+                // Licence -> For entering some special building
+                // Claim called Admin Role to enter admin pages
+
+                var claims = new List<Claim>()
+                {
+                    new Claim(ClaimTypes.Email, user.Email),
+                    new Claim(ClaimTypes.GivenName, user.FirstName),
+                    new Claim(ClaimTypes.Surname, user.LastName),
+                    new Claim(ClaimTypes.NameIdentifier, user.Id.ToString()),
+                    new Claim(ClaimTypes.DateOfBirth, user.DateOfBirth.ToShortDateString()),
+                    new Claim("Language", "English")
+                };
+
+                // Identity
+                var claimsIdentity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
+
+                // create the cookie with above claims
+                await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, new ClaimsPrincipal(claimsIdentity));
+
             }
             catch (Exception)
             {
                 return View();
                 throw;
             }
-            return View();
+            // return View();
+            // ASP.NET, how long the cookie is gonna be valid
+            // Name of the cookie
+            return LocalRedirect("~/");
         }
     }
 }
